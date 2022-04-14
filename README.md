@@ -13,7 +13,7 @@ I am a Dual Masters Graduate in Chemical Engineering and Technology Ventures fro
 [<img alt="Seaborn" width="60px" height ="60px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />](https://seaborn.pydata.org/)
 [<img alt="My Sql" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.mysql.com/)
 
-## You can reach me at @ ,
+## You can connect with me at @ ,
 https://linktr.ee/Sasidharan_Sathiyamoorthy
 
 ------
