@@ -1,8 +1,9 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sasidharan!
+### Hi there,
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 -------
 
-I am a Dual Masters Graduate in Chemical Engineering and Technology Ventures from Carnegie Mellon University. I am particularly passionate about the infinite possibilities of using data to solve complex business problems and deliver a great customer experience. I am self taught in the concepts of Data Science, which I work upon through exploring and analyzing datasets in my free time. I am currently looking for full time Data Analyst and Data Scientist roles. Would love to connect with people interested in data based roles! 
+I am Sasidharan, a Dual Masters Graduate in Chemical Engineering and Technology Ventures from Carnegie Mellon University. I am particularly passionate about the infinite possibilities of using data to solve complex business problems and deliver a great customer experience. I am self taught in the concepts of Data Science, which I work upon through exploring and analyzing datasets in my free time. I am currently looking for full time Data Analyst and Data Scientist roles. Would love to connect with people interested in data based roles! 
 
 ### 🧰 Tools 
 
