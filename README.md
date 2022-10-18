@@ -1,18 +1,4 @@
-### Hi there,
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-
--------
-
 I am Sasidharan, a Dual Masters Graduate in Chemical Engineering and Technology Ventures from Carnegie Mellon University. I am particularly passionate about the infinite possibilities of using data to solve complex business problems and deliver a great customer experience. I am self taught in the concepts of Data Science, which I work upon through exploring and analyzing datasets in my free time. I am currently looking for full time Data Analyst and Data Scientist roles. Would love to connect with people interested in data based roles! 
-
-### 🧰 Tools 
-
-[<img alt="Python Logo" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />](https://www.python.org/)
-[<img alt="Pandas" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" />](https://pandas.pydata.org/)
-[<img alt="Numpy" width="70px"  src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" />](https://numpy.org/)
-[<img alt="Sckit Learn" width="70px" height = "70px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
-[<img alt="Seaborn" width="60px" height ="60px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />](https://seaborn.pydata.org/)
-[<img alt="My Sql" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.mysql.com/)
 
 ## You can connect with me at @ ,
 https://linktr.ee/Sasidharan_Sathiyamoorthy
